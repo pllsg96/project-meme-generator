@@ -2,3 +2,29 @@
   margin: 0%;
   padding: 0%;
 }
+
+body{
+  text-align: center;
+}
+
+header{
+  padding: 30px;
+}
+
+section p{
+  display: inline-block;
+}
+section input{
+  display: inline-block;
+}
+
+#meme-image-container{
+  margin: 20px;
+  padding: 200px;
+  border: solid 2px black;
+}
+
+#meme-text{
+  border: solid 2px red;
+  height: 100px;
+}
